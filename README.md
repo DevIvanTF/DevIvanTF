@@ -4,7 +4,7 @@
 
 ---
 
-🌱 **Actualmente aprendiendo:** Desarrollo de software, algoritmos, estructuras de datos y desarrollo movil
+🌱 **Actualmente aprendiendo:** Desarrollo de software, algoritmos, estructuras de datos y desarrollo móvil
 
 💻 **Habilidades:**
 - **Lenguajes de programación:** Java, Python
