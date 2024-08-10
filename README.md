@@ -1,10 +1,10 @@
 # ¡Hola! 👋 Soy Ivan Torres
 
-### Estudiante universitario | Desarrollador Java y Python | Amante del aprendizaje
+### Estudiante universitario | Desarrollador de Java y Python | Amante del aprendizaje
 
 ---
 
-🌱 **Actualmente aprendiendo:** Desarrollo de software, algoritmos y estructuras de datos, y desarrollo movil
+🌱 **Actualmente aprendiendo:** Desarrollo de software, algoritmos, estructuras de datos y desarrollo movil
 
 💻 **Habilidades:**
 - **Lenguajes de programación:** Java, Python
